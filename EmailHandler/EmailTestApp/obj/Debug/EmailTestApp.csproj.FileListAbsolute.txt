@@ -1,0 +1,12 @@
+C:\Scott\2008 Projects\EmailHandler\EmailTestApp\bin\Debug\EmailTestApp.exe
+C:\Scott\2008 Projects\EmailHandler\EmailTestApp\bin\Debug\EmailTestApp.pdb
+C:\Scott\2008 Projects\EmailHandler\EmailTestApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Scott\2008 Projects\EmailHandler\EmailTestApp\obj\Debug\EmailTestApp.frmTestEmail.resources
+C:\Scott\2008 Projects\EmailHandler\EmailTestApp\obj\Debug\EmailTestApp.Properties.Resources.resources
+C:\Scott\2008 Projects\EmailHandler\EmailTestApp\obj\Debug\EmailTestApp.csproj.GenerateResource.Cache
+C:\Scott\2008 Projects\EmailHandler\EmailTestApp\obj\Debug\EmailTestApp.exe
+C:\Scott\2008 Projects\EmailHandler\EmailTestApp\obj\Debug\EmailTestApp.pdb
+C:\Scott\2008 Projects\EmailHandler\EmailTestApp\bin\Debug\EmailHandler.dll
+C:\Scott\2008 Projects\EmailHandler\EmailTestApp\bin\Debug\EmailHandler.pdb
+C:\_aspn\EmailHandler\EmailTestApp\obj\Debug\EmailTestApp.exe
+C:\_aspn\EmailHandler\EmailTestApp\obj\Debug\EmailTestApp.pdb
