@@ -219,7 +219,7 @@
             this.txtSenha.PasswordChar = '*';
             this.txtSenha.Size = new System.Drawing.Size(173, 20);
             this.txtSenha.TabIndex = 5;
-            this.txtSenha.Text = "saeopdqgzjtntsdc";
+            this.txtSenha.Text = "U@i#2024**";
             // 
             // txtEmailProp
             // 
@@ -227,7 +227,7 @@
             this.txtEmailProp.Name = "txtEmailProp";
             this.txtEmailProp.Size = new System.Drawing.Size(399, 20);
             this.txtEmailProp.TabIndex = 5;
-            this.txtEmailProp.Text = "mensageriauaisoft@gmail.com";
+            this.txtEmailProp.Text = "gr@uaisoft.com.br";
             // 
             // txtPorta
             // 
@@ -252,7 +252,7 @@
             this.txtSMTP.Name = "txtSMTP";
             this.txtSMTP.Size = new System.Drawing.Size(399, 20);
             this.txtSMTP.TabIndex = 3;
-            this.txtSMTP.Text = "smtp.gmail.com";
+            this.txtSMTP.Text = "smtp.skymail.net.br";
             // 
             // label1
             // 

@@ -33,10 +33,12 @@ namespace EmailHandler.TesteEmail
                     return "Email do destinatário inválido: " + Destinatario;
 
                 SmtpClient smtpClient = new SmtpClient();
-
+                //smtpClient.Host = "webmail.uaisoft.com.br";
+                smtpClient.UseDefaultCredentials = true;
                 smtpClient.Host = hostClient.Trim();
                 smtpClient.Port = porta;
                 smtpClient.EnableSsl = ssl;
+                smtpClient.Timeout = 1200000;
                 smtpClient.Credentials = new NetworkCredential(Remetente.Trim(), senha);
 
                 MailMessage novoEmail = new MailMessage();

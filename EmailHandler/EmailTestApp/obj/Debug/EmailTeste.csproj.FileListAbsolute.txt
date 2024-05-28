@@ -18,3 +18,13 @@ C:\_vbn\EmailHandler\EmailTestApp\bin\Debug\EmailTestApp.exe
 C:\_vbn\EmailHandler\EmailTestApp\bin\Debug\EmailTestApp.pdb
 C:\_vbn\EmailHandler\EmailTestApp\bin\Debug\EmailHandler.dll
 C:\_vbn\EmailHandler\EmailTestApp\bin\Debug\EmailHandler.pdb
+C:\D\GitProjects\Utilitarios\EmailHandler\EmailTestApp\bin\Debug\EmailTestApp.exe
+C:\D\GitProjects\Utilitarios\EmailHandler\EmailTestApp\bin\Debug\EmailTestApp.pdb
+C:\D\GitProjects\Utilitarios\EmailHandler\EmailTestApp\obj\Debug\EmailTeste.csproj.AssemblyReference.cache
+C:\D\GitProjects\Utilitarios\EmailHandler\EmailTestApp\obj\Debug\EmailHandler.TesteEmail.frmTesteEmail.resources
+C:\D\GitProjects\Utilitarios\EmailHandler\EmailTestApp\obj\Debug\EmailTestApp.Properties.Resources.resources
+C:\D\GitProjects\Utilitarios\EmailHandler\EmailTestApp\obj\Debug\EmailTeste.csproj.GenerateResource.cache
+C:\D\GitProjects\Utilitarios\EmailHandler\EmailTestApp\obj\Debug\EmailTeste.csproj.CoreCompileInputs.cache
+C:\D\GitProjects\Utilitarios\EmailHandler\EmailTestApp\obj\Debug\EmailTestApp.exe
+C:\D\GitProjects\Utilitarios\EmailHandler\EmailTestApp\obj\Debug\EmailTestApp.pdb
+C:\D\GitProjects\Utilitarios\EmailHandler\EmailTestApp\bin\Debug\EmailTestApp.exe.config
